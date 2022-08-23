@@ -50,10 +50,9 @@ section {
 .flex-container {
     display: flex;
     justify-content: center;
-    /* padding-bottom: 20px; */
 }
 
-.flex-container p {
+.amount-select p {
     font-size: 30px;
     padding: 40px;
     margin: 10px;
@@ -76,4 +75,54 @@ section {
     width: 60%;
     padding: 8px 0;
     margin: 30px;
+}
+
+.choose-section {
+    padding: 1% 10%;
+}
+
+.choose-section>p {
+    padding: 0 20% 2% 20%;
+}
+
+.box {
+    text-align: left;
+    padding: 20px 20px;
+    margin: 10px 20px;
+    border-radius: 5px;
+}
+
+.box img {
+    width: 20%;
+}
+
+#left-box {
+    background-color: #CEE5D0;
+}
+
+#mid-box {
+    background-color: #F9F5EB;
+}
+
+#right-box {
+    background-color: #EAE3D2;
+}
+
+.extra-section {
+    display: flex;
+    padding: 0 5%;
+}
+
+.half-width {
+    width: 50%;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.half-width h1 {}
+
+.half-width img {
+    width: 90%;
+    margin-left: 20px;
+    border-radius: 5px;
 }
