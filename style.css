@@ -15,7 +15,7 @@ section {
 .top-section {
     text-align: center;
     padding: 10% 5%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(/images/donation5.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(images/donation5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
