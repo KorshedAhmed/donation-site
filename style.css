@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+section {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.top-section {
+    text-align: center;
+    padding: 10% 5%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(/images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+}
+
+.top-section h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.top-section p {
+    margin-bottom: 50px;
+}
+
+.btn-style {
+    text-decoration: none;
+    color: white;
+    background-color: #371B58;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+
+
+.amount-section p {
+    padding: 0 20% 2% 20%;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    /* padding-bottom: 20px; */
+}
+
+.flex-container p {
+    font-size: 30px;
+    padding: 40px;
+    margin: 10px;
+    background-color: #fff4cfa4;
+    border-radius: 5px;
+}
+
+#special-amount {
+    border: 4px solid #683aa8;
+    background-color: #7858a63a;
+    color: #25123b;
+}
+
+.amount-input input {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    border: none;
+    border-bottom: 1px solid #7858a63a;
+    width: 60%;
+    padding: 8px 0;
+    margin: 30px;
+}
