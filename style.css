@@ -5,11 +5,12 @@ body {
 
 h1 {
     font-size: 35px;
+    color: #25123b;
 }
 
 section {
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 10%;
 }
 
 .top-section {
@@ -25,6 +26,7 @@ section {
 .top-section h1 {
     font-size: 50px;
     font-weight: bold;
+    color: white;
 }
 
 .top-section p {
@@ -133,9 +135,6 @@ section {
     border-radius: 5px;
 }
 
-.email-section {}
-
-
 .email-field {
     background-color: #FCE2DB;
     margin: 5% 15%;
@@ -160,4 +159,5 @@ footer {
 footer h1 {
     font-family: 'DynaPuff', cursive;
     font-size: 40px;
+    color: #FCE2DB;
 }
