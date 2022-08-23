@@ -123,8 +123,41 @@ section {
     color: #25123b;
 }
 
+.half-width p {
+    margin: 30px 0;
+}
+
 .half-width img {
     width: 90%;
     margin-left: 20px;
     border-radius: 5px;
+}
+
+.email-section {}
+
+
+.email-field {
+    background-color: #FCE2DB;
+    margin: 5% 15%;
+    padding: 50px 0px;
+}
+
+.email-field input {
+    border: none;
+    padding: 10px 10px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+
+footer {
+    text-align: center;
+    background-color: #371B58;
+    color: #FCE2DB;
+    padding: 15px 0 25px 0;
+}
+
+footer h1 {
+    font-family: 'DynaPuff', cursive;
+    font-size: 40px;
 }
